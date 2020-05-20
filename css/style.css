@@ -1,3 +1,4 @@
+/*基础设定*/
 body
 {
   font-family: sans-serif;
@@ -10,6 +11,8 @@ body
   width: 100%;
   overflow: hidden;
 }
+/*如果你想统一更改文字发光颜色。只需将所有的#1E90FF换成你喜欢的颜色*/
+/*主要字体样式*/
 #text{
    position: relative;
    text-align: center;
@@ -17,6 +20,7 @@ body
    color : white;
    text-shadow: 0 0 10px #1E90FF,0 0 20px #1E90FF,0 0 30px #1E90FF,0 0 40px #1E90FF;
 	}
+/*倒计时样式*/
 #clock{
    position: relative;
    text-align: center;
@@ -25,6 +29,7 @@ body
    text-shadow: 0 0 10px #1E90FF,0 0 20px #1E90FF,0 0 30px #1E90FF,0 0 40px #1E90FF;
 	}
 /*取消下面的注释并注释最底部，取消吐槽话语沉底*/
+/*以下内容使吐槽在中间位置*/
 /*#MGJ{
    position: relative;
    text-align: center;
@@ -32,6 +37,7 @@ body
    color : white;
    text-shadow: 0 0 10px #1E90FF,0 0 20px #1E90FF,0 0 30px #1E90FF,0 0 40px #1E90FF;
 	}*/
+/*吐槽在底部位置*/
 #MGJ{
    position: absolute;
    text-align: center;
