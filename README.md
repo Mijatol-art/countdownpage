@@ -16,6 +16,7 @@ HTML写得稀烂，没有自适应，你可能还要自己改改字号和位置�
 ### 预览
 ![Preview](/images/preview.png "Preview")
 ![Preview](/images/preview2.png "Preview2")
+![Preview](/images/preview3.png "Preview3")
 
 ### Declare
 ### 申明
