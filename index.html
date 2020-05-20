@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!--引入jQuery-->
+  <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+  <!--引入countdown plugin for jQuery-->
+  <script src="/js/jquery.countdown.min.js"></script>
+  <link rel="stylesheet" href="/css/style.css">
+  <title>开学！</title>
+</head>
+<body>
+<div id="text">
+  <h4>距离2020年开学<br>仅有</h4>
+  <span id="clock"></span>
+</div>
+<script type="text/javascript">
+  $('#clock').countdown('2020/5/28', function(event) {
+    $(this).html(event.strftime('%D 天 %H:%M:%S'));
+  });
+</script>
+<br>
+<div id="MGJ">
+<p>妈个鸡<br>爷要开学了</p>
+</div>
+</body>
+</html>
