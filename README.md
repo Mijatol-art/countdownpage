@@ -20,8 +20,8 @@ HTML写得稀烂，没有自适应，你可能还要自己改改字号和位置�
 
 ### Declare
 ### 申明
-All background pictures are from the Internet, such as PIXIV, Google Pictures. Even if MIT is used for licensing. You cannot directly use the pictures for commercial purposes! And the pictures' original author should be famous!<br>
-所有背景图片均来自网络，如P站、Google图片。即使采用MIT进行许可。你不应该、也不能直接将图片进行商业使用！使用时应该著名图片的原作者！<br>
+All background pictures are from the Internet, such as PIXIV, Google Pictures. Even if MIT is used for licensing. You cannot directly use the pictures for commercial purposes! And the pictures' original author should be indicated!<br>
+所有背景图片均来自网络，如P站、Google图片。即使采用MIT进行许可。你不应该、也不能直接将图片进行商业使用！使用时应该注明图片的原作者！<br>
 Image Sources:<br>
 图片来源：<br>
 background.png: https://www.pixiv.net/artworks/65911879<br>
