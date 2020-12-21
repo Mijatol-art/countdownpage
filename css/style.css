@@ -39,7 +39,7 @@ body
 
 /*以下内容使吐槽在底部位置*/
 #MGJ{
-   position: absolute;
+   position: relative;
    text-align: center;
    font-size: 64px;
    margin-top: 200px;
